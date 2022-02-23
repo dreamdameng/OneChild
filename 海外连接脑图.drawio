@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T08:27:26.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Dxfu1NKz_2tgt71AVHRS" version="16.5.6" type="github"><diagram id="Vn7w_qZSe05x15afY86e" name="Page-1">5VnLcpswFP0aLdMBiYdYIgxNZ9qVZ5ppd8QoQIotguXY7tdXAhEbIyd0HJu62XjEkWRJ5x7dBwAUzDefq7jMvrGEFgAayQagCYDQsxzxK4FtA9gINkBa5UkDmTtgmv+mCjQUusoTuuwM5IwVPC+74IwtFnTGO1hcVWzdHfbAiu6qZZzSHjCdxUUfvcsTnjUohu4Ov6V5mrUrm47X9MzjdrA6yTKLE7beg1AIUFAxxpvWfBPQQnLX8tLMi470vmysogs+ZMKX7SOK3HDy/f5HfIvSn1NjZt6ozT7HxUodWG2Wb1sGaCIIUY+s4hlL2SIuwh1KKrZaJFQuY4in3ZivjJUCNAX4SDnfKuvGK84ElPF5oXqbNeVCR8+moCVbVTM1yja3Sbkg1dOvZZrfZQ/05xO/aTUSVynlrxwcv1hAKJeyOeXVVsyraBHz/Lm7j1hpKH0Zt6NZNBTTetZf2+Q+66ELCAKE1A0CvAiEHvBNQGwQYkBC4CEQ2gDbwLdlw48AduRg3wDY7Bmta5J1lnM6LeOaubW4pzr6NWw/04rTzR7UJ6ztdZTKt93ru97dGdNQWLZ3X5BxOsVa+6IrFrb2QEOFDS8k7Nc2uce6X5a1bh0pXegUYuvkvhKtVLYupe2ekDU2OKpty+pq2xlb27bGfTjAw5K46xY5HChya0yRuxr6beAZwHc+CP3OmPRDLf0Y1z7DAsQHPhniRTI2v18t3/YgXQO9hz+xD2Il7DsUrPEnln0ur63JR65byNZAIZuG3lKXUbKlUbKQcQiIW0s6Ap6jGkLMQsmeBXwsGxgBf1I3ICDekbgqpocyMIg/lHH1cJbfs/HFL4IFP9mdqwA1V8GzNVfhXKHV0ZjEqqmc1D5lIsOsxgCnMPmQF0XAClbVc1EUBYHnvQ/DCB66GrdlfI9h95LJC9YmLwTL9E+UPOLkvgXCCJBAFkFjS/SwrsEDcz94Nl9taMMfmdRJtFUTSSSjfiDLxwF+oB7tiarT0fmRvmn6fkSziMhFhRsz2q3ZoxvSQl1DIl2FCnVR91wXAf53Udccmj+a3phht93mX1SpdXGKJ7XSLenwB9wr1LPmpQtXB/9jhaupqVyvXPJoqOTHfS+jyWs+CvGj8t5/DRl3XM3IUdHGb7621SWH58tuNN8jTsturBOzGzTgVcKlrea4B1az+zn9e+Uy4nH3iaru2/vOh8I/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-23T10:18:40.535Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="djhsJFPSkJWEoBEPq1jI" version="16.5.6" type="github">
+  <diagram id="Vn7w_qZSe05x15afY86e" name="Page-1">
+    <mxGraphModel dx="970" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="51ydpnBrqksgiWhfeZqt-1" target="Iyj3F7EDVbYaH3gZS0c1-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="51ydpnBrqksgiWhfeZqt-1" value="系统页输入密码" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Iyj3F7EDVbYaH3gZS0c1-1" target="Iyj3F7EDVbYaH3gZS0c1-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-1" value="App内&lt;br&gt;输入密码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" parent="1" vertex="1">
+          <mxGeometry x="440" y="60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-5" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Iyj3F7EDVbYaH3gZS0c1-2" target="Iyj3F7EDVbYaH3gZS0c1-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-7" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Iyj3F7EDVbYaH3gZS0c1-2" target="Iyj3F7EDVbYaH3gZS0c1-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-2" value="分享密码" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="120" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Iyj3F7EDVbYaH3gZS0c1-4" target="Iyj3F7EDVbYaH3gZS0c1-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-4" value="获取可用热点&lt;br&gt;连接热点A" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="442.5" y="220" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-6" value="保存热点" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFCC99;" parent="1" vertex="1">
+          <mxGeometry x="320" y="127.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-8" value="清除？" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="80" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-10" value="当下次连接热点B时&lt;br&gt;清除热点A连接记录" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Iyj3F7EDVbYaH3gZS0c1-12" target="Iyj3F7EDVbYaH3gZS0c1-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-12" value="App内&lt;br&gt;免费连接热点3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" parent="1" vertex="1">
+          <mxGeometry x="680" y="60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Iyj3F7EDVbYaH3gZS0c1-13" target="Iyj3F7EDVbYaH3gZS0c1-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Iyj3F7EDVbYaH3gZS0c1-13" target="Iyj3F7EDVbYaH3gZS0c1-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-13" value="app内" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="580" y="10" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyj3F7EDVbYaH3gZS0c1-19" value="当下次连接热点4时&lt;br&gt;清除热点3密码" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="155" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
